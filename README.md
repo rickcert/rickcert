@@ -18,6 +18,7 @@ rickhqh/rickhqh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Rick's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rickhqh&show_icons=true&count_private=true&theme=gotham)]()&ensp;
 #### 正在学习中😃
 
 
@@ -43,7 +44,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
-
-[![Rick's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rickhqh&show_icons=true&count_private=true&theme=gotham)]()&ensp;
 
 ![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
