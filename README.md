@@ -7,7 +7,6 @@
 </p>
 
 <h1 align="center">Hello, I am hqh 👏🏻</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
 
 **Preview**：From HuNan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
@@ -18,7 +17,7 @@
 rickhqh/rickhqh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=richhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
+[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickhqh&theme=dark&layout=compact)
 
@@ -50,7 +49,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)]()
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
 
-
-# Welcome to My Blog:[传送门](http://blog.mypzh.com)
 
 ![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
