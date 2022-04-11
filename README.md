@@ -1,12 +1,12 @@
 
 <p>
   <a href="https://count.getloli.com/">
-  <img src="https://count.getloli.com/get/@:ChenXiaoGe1988">
+  <img src="https://count.getloli.com/get/@:rickhqh">
   </a>
   <img src="https://weather-icon.journeyad.repl.co/@zhuzhou?v=1" align="right">
 </p>
 
-<h1 align="center">Hello, I am hqh 👏🏻</h1>
+<h1 align="center">Hello, I am Rick 👏🏻</h1>
 
 **Preview**：From HuNan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
