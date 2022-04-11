@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickhqh&theme=dark&layout=compact)
 
 
-#正在学习中😃
+#### 正在学习中😃
 
 
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  ![](https://img.shields.io/badge/-sprin-6DB33?style=flat-square&logo=spring&logoColor=ffffff) ![](https://img.shields.io/badge/-ubuntu-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)  ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
@@ -41,13 +41,9 @@ You can click the Preview link to take a look at your changes.
 #### Language
 
 [![](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)]()
-[![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)]()
-[![](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/-java-E34F26?logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/-Python3-3776AB?logo=python&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
-[![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white)]()
-[![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
 
 
 ![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
