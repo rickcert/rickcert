@@ -2,7 +2,7 @@
 
 **Preview**：From HuNan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
-**Blog**：[My Blog](rickblog.icu)🧑‍
+**Blog**：[My Blog](https://rickblog.icu)🧑‍
 
 **Contact**：rickhqh@foxmail.com👀
 <!---
