@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickhqh&theme=dark&layout=compact)
+![Rick's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rickhqh&show_icons=true&count_private=true&theme=gotham)
 
 
 #### 正在学习中😃
