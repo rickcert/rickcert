@@ -41,4 +41,4 @@
 
 [![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
 
-![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
+![image](https://cdn.jsdelivr.net/gh/rickhqh/pic/img/202204121312279.gif)
