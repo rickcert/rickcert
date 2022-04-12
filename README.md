@@ -23,7 +23,7 @@
 #### System
 
 [![](https://img.shields.io/badge/Windows-10-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
-[![](https://img.shields.io/badge/iOS-15.6-FE6722?logo=apple&logoColor=ffffff)](https://www.apple.com.cn/)
+[![](https://img.shields.io/badge/iOS-14.6-FE6722?logo=apple&logoColor=ffffff)](https://www.apple.com.cn/)
 [![](https://img.shields.io/badge/Android-10.0-3DDC84?logo=Android&logoColor=ffffff)](https://developer.android.google.cn/)
 
 #### Tools
