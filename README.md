@@ -1,5 +1,5 @@
 <p>
-  <img src="https://count.getloli.com/get/@:rickhqh?theme=moebooru">
+  <img src="https://count.getloli.com/get/@:rickhqh?theme=moebooru" alt=":rickhqh" />
   <img src="https://weather-icon.journeyad.repl.co/@changsha?v=1" align="right">
 </p>
 
