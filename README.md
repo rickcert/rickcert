@@ -15,7 +15,7 @@
 #### 正在学习中😃
 
 
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  ![](https://img.shields.io/badge/-sprin-6DB33?style=flat-square&logo=spring&logoColor=ffffff) ![](https://img.shields.io/badge/-ubuntu-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)  ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  ![](https://img.shields.io/badge/-spring-6DB33?style=flat-square&logo=spring&logoColor=ffffff) ![](https://img.shields.io/badge/-ubuntu-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)  ![](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 
 #### System
 
