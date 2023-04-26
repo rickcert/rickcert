@@ -7,7 +7,7 @@
 
 **Preview**：From Hunan, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
-**Blog**：[My Blog](https://rickblog.icu)🧑‍
+**Blog**：[My Blog](https://blog.rick.icu)🧑‍
 
 **Contact**：rickhqh@foxmail.com👀
 
