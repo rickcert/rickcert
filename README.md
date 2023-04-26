@@ -36,6 +36,6 @@
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
 
 
-[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rickblog.icu)&ensp;
+[![Rick's github stats](https://github-readme-stats.vercel.app/api?username=rickhqh&show_icons=true&theme=onedark)](https://blog.rick.icu)&ensp;
 
 ![image](https://cdn.jsdelivr.net/gh/rickhqh/pic/img/202204121312279.gif)
